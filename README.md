@@ -1,7 +1,7 @@
 ﻿# InkFlowBangla: Bengali Handwriting Text Generation
 
 ## 📢 Introduction
-**InkFlowBangla** is a state-of-the-art few-shot diffusion model tailored for generating stylized Bengali handwritten text. Built upon the foundation of [DiffusionPen](https://github.com/konnik/DiffusionPen), this project introduces key enhancements specifically designed for the complexities of the Bengali script.
+**InkFlowBangla** is a state-of-the-art few-shot diffusion model tailored for generating stylized Bengali handwritten text. Built upon the foundation of [DiffusionPen](https://github.com/koninik/DiffusionPen), this project introduces key enhancements specifically designed for the complexities of the Bengali script.
 
 ### Key Features
 - **Grapheme Tokenizer**: Unlike standard tokenizers, InkFlowBangla employs a specialized grapheme-based tokenizer to accurately capture the structural components of Bengali characters.
